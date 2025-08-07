@@ -1,3 +1,2 @@
 # LAKHI_INFO
-
-&copy; 2025 Lakhi Airconditioners. All rights reserved.
+home page of @.lakhiairconditioners.com     this is copyright by lakhi airconditioners
