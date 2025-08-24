@@ -1,8 +1,7 @@
-const CACHE_NAME = 'lakhi-cache-v1';
+const CACHE_NAME = 'lakhi-cache-v2';
 const OFFLINE_URL = 'offline.html';
 
 const FILES_TO_CACHE = [
-  '/',
   'https://shop.lakhiairconditioners.com/offline.html',
   'https://shop.lakhiairconditioners.com/styles.css',
   'https://shop.lakhiairconditioners.com/game.js',
