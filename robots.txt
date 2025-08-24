@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://lakhiairconditioners.com/sitemap.xml
+Sitemap: https://bc.lakhiairconditioners.com/sitemap.xml
